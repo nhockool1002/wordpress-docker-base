@@ -13,6 +13,8 @@ git clone https://github.com/nhockool1002/wordpress-docker-base.git
 cd wordpress-docker-base
 ```
 
+### Step 3: Add *.sql to sql folder
+
 ### Step 3: Run project (require: docker installed)
 ```
 docker-compose up -d

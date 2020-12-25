@@ -17,3 +17,5 @@ Step 3: Run project (require: docker installed)
 ```
 docker-compose up -d
 ```
+
+Version Build : 0.0.1
